@@ -1,0 +1,9 @@
+[
+    "index.php",
+    "php-explorer/dist/css/style.css",
+    "php-explorer/dist/js/script.js",
+    "php-explorer/dist/js/script-with-upload.js",
+    "php-explorer/dist/js/jquery-1.7.2.js",
+    "php-explorer/src/index.php",
+    "php-explorer/src/layout/api.php"
+]
